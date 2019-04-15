@@ -1,0 +1,34 @@
+Coverage Analysis Report
+
+Sample Name: HG259
+Reference Genome: hg19
+Target Regions: dummy coverage file
+Alignments: dummy coverage file
+
+Number of mapped reads:         35866333
+Percent reads on target:        94.43%
+
+Number of amplicons:                293903
+Total assigned amplicon reads:      33868629
+Percent assigned amplicon reads:    94.43%
+Average reads per amplicon:         115.2
+Uniformity of amplicon coverage:    94.79%
+Amplicons with at least 1 read:     99.57%
+Amplicons with at least 20 reads:   95.71%
+Amplicons with at least 100 reads:  52.89%
+Amplicons with at least 500 reads:  0.10%
+Amplicons with no strand bias:      93.25%
+Amplicons reading end-to-end:       70.40%
+
+Total aligned base reads:          6919334413
+Total base reads on target:        6472961257
+Bases in target regions:           57742646
+Percent base reads on target:      93.55%
+Average base coverage depth:       112.1
+Uniformity of base coverage:       94.29%
+Target base coverage at 1x:        99.44%
+Target base coverage at 20x:       95.09%
+Target base coverage at 100x:      50.10%
+Target base coverage at 500x:      0.13%
+Target bases with no strand bias:  89.78%
+Percent end-to-end reads:          74.35%
